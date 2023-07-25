@@ -17,11 +17,3 @@ RUN echo './utils/launch.sh  --vnc localhost:7900 --listen 8900 ' >>/luo.sh
 RUN chmod 755 /luo.sh
 EXPOSE 8900
 CMD  /luo.sh
-
-
-
-https://github.com/udfgver2337dfsd/free.git
-
-https://www.intel.cn/content/www/cn/zh/developer/tools/devcloud/overview.html
-
-solysoly
